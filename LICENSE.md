@@ -1,4 +1,4 @@
-# 
+# MEV-optimized dexscreener sniper bot | back-running + new-token-detection is the best dexscreener sniper bot, featuring back-running and new-token-detection. Fast, smart, and
 
 
 
